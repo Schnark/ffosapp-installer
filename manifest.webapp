@@ -1,0 +1,15 @@
+{
+	"name": "App installer",
+	"description": "Allows to install apps from URL",
+	"launch_path": "/index.html",
+	"icons": {
+		"512": "/icon-512.png",
+		"128": "/icon-128.png"
+	},
+	"version": "1.0",
+	"developer": {
+		"name": "Michael Müller",
+		"url": "https://github.com/Schnark"
+	},
+	"default_locale": "en"
+}
