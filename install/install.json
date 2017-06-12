@@ -1,8 +1,8 @@
 {
 	"@comment": "Note that the code to transform these data into a webpage is in https://github.com/Schnark/schnark.github.io",
 	"title": {
-		"en": "App installer – App for Firefox OS",
-		"de": "App-Installer – App für Firefox OS"
+		"en": "App Installer – App for Firefox OS",
+		"de": "App Installer – App für Firefox OS"
 	},
 	"serviceworker": false,
 	"icon": "icon-128.png",
