@@ -1,13 +1,13 @@
 {
 	"name": "App Installer",
 	"description": "Allows to install apps from URL",
-	"size": 16642,
+	"size": 16666,
 	"package_path": "http://localhost:8080/ffosapp-installer.zip",
 	"icons": {
 		"512": "/icon-512.png",
 		"128": "/icon-128.png"
 	},
-	"version": "1.1",
+	"version": "1.2",
 	"developer": {
 		"name": "Michael Müller",
 		"url": "https://github.com/Schnark"

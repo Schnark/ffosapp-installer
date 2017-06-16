@@ -2,6 +2,10 @@ html {
 	font-family: sans-serif;
 }
 
+code {
+	font-family: monospace, sans-serif;
+}
+
 input, button {
 	margin: 1em 0.5em;
 	display: block;
