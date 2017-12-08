@@ -1,3 +1,4 @@
+/*global Promise, alert*/
 (function () {
 "use strict";
 
